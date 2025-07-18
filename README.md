@@ -47,8 +47,7 @@ This project is licensed under the **MIT License**.
 ## ✨ **Author**
 
 **Akash Biswas**  
-[GitHub](https://github.com/akash-kumar-biswas) | [LinkedIn](https://linkedin.com/in/akashx13)
-
+[GitHub](https://github.com/akash-kumar-biswas) | [LinkedIn](https://www.linkedin.com/in/akash-biswas-84b824266)
 ---
 
 ## ⭐ **Give a Star!**
