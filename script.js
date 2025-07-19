@@ -10,7 +10,7 @@ const questions = [
     },
     
     {
-        question: "which of the following is not  present of Java?",
+        question: "which of the following is not  present in Java?",
         answers: [
             {text:"string", correct: false},
             {text:"array", correct: false},
